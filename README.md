@@ -4,4 +4,7 @@ Demo of the T5 model for various pre-trained task.
   <img src="https://github.com/prakhar21/T5-Text-to-Text-Transfer-Transformer/blob/master/t5.gif" width="640" height="220" title="T5 Demo">
 </p>
 
-* You can read more about the T5 model on my blog @ Understanding T5 Model
+Also, please find link to original work [Exploring the Limits of Transfer Learning with aUnified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
+
+_P.S. I have written a detailed blog @ Understanding T5 Model. Feel free to read it and leave your valuable comments._
+
